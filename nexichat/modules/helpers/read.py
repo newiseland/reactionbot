@@ -18,7 +18,7 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT)  
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/SIDHI_MUSIC/19)  
 ║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [sɪᴅʜɪ ✯ ᴍᴜsɪᴄ](https://t.me/NAWAB_OFFICE)                         
 ╚═════════════════╝
 **"""
