@@ -1,7 +1,7 @@
 {
   "name": "nexichat",
   "description": "A telegram bot",
-  "logo": "https://envs.sh/IL_.jpg",
+  "logo": "https://envs.sh/Ynn.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,22 +11,27 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT",
+  "repository": "https://github.com/sangu272/Chatbew",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
       "required": true,
       "value": ""
     },
+    "STRING_SESSION": {
+      "description": "Fill Here A Pyrogram String Session For Id-Chatbot, Get it from: https://telegram.tools/session-string-generator#pyrogram,user (This is Optional, If you dont want id-chatbot you can skip this variable)",
+      "required": false,
+      "value": ""
+    },
     "OWNER_ID": {
       "description": "Fill Here Your Owner User Id",
       "required": true,
-      "value": "1808943146"
+      "value": "7129262488"
     },
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://harryashutosh729:harryashutosh729@harry2.xykka.mongodb.net/?retryWrites=true&w=majority&appName=harry2"
     }
   }
 }
